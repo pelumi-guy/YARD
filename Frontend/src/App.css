@@ -1,0 +1,158 @@
+.show-border {
+  border: solid 1px red;
+}
+
+.dim-text {
+  color: #b0b0b0;
+}
+
+/* Login & Register forms */
+
+.form-control:disabled,
+.form-control[readonly] {
+  background-color: white;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+
+  font-weight: 700;
+}
+
+.wrapper form {
+  padding: 2.5rem 3rem;
+}
+
+.wrapper form .btn {
+  background-color: #3252df;
+  border-color: #3252df;
+  color: white;
+  margin-top: 2.5rem;
+}
+
+.wrapper form a {
+  font-size: 0.9rem;
+  color: grey;
+}
+
+#login_btn,
+#view_btn {
+  /* background-color: #febd69; */
+  /* background-color: #3252DF; */
+  padding: 0.4rem 1.8rem;
+  font-family: calibri;
+  color: white;
+}
+
+/* ================ Booking Form ================ */
+.hotelDetails_container {
+  height: 100%;
+  position: relative;
+}
+
+.hotelDetails .btn {
+  width: 120px;
+  height: 20px;
+  position: absolute;
+  right: 0;
+}
+
+.minus {
+  width: 30px;
+  height: 30px;
+  color: red;
+}
+.minus:hover {
+  color: crimson;
+}
+.plus {
+  width: 30px;
+  height: 30px;
+  color: green;
+}
+.plus:hover {
+  color: chartreuse;
+}
+
+.counter-style {
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  border: 1px solid blue;
+  color: blue;
+  background-color: white;
+  border-radius: 3px;
+}
+
+.signup {
+  background-image: linear-gradient(
+      rgba(187, 216, 238, 0.4),
+      rgba(187, 216, 238, 0.4)
+    ),
+    url(../src/assets/images/icons/Transcorp2.jpg);
+  background-size: cover;
+}
+
+.login {
+  background-image: linear-gradient(
+      rgba(20, 55, 82, 0.4),
+      rgba(20, 55, 82, 0.4)
+    ),
+    url(../src/assets/images/icons/Bon10.jpg);
+  background-size: cover;
+  box-shadow: 0 0 8px 8px white inset;
+}
+
+.profile {
+  background-image: linear-gradient(
+      rgba(20, 55, 82, 0.3),
+      rgba(20, 55, 82, 0.3)
+    ),
+    url(../src/assets/images/icons/BonHotel.jpg);
+  background-size: cover;
+  box-shadow: 0 0 8px 8px white inset;
+}
+
+.pword {
+  background-image: linear-gradient(
+      rgba(20, 55, 82, 0.3),
+      rgba(20, 55, 82, 0.3)
+    ),
+    url(../src/assets/images/icons/TheDestinationImage1.jpg);
+  background-size: cover;
+  box-shadow: 0 0 8px 8px white inset;
+}
+
+.outlined-header {
+  color: white;
+  -webkit-text-stroke: 1px black; /* Chrome, Safari, Opera */
+  /* text-stroke: 1px black; // Firefox */
+}
+
+.plain-link {
+  text-decoration: none;
+}
+
+.sidebar {
+  height: 100vh; /* Set sidebar height to full viewport height */
+  width: 200px; /* Set sidebar width according to your design */
+  position: fixed; /* Fixed positioning to keep it fixed while scrolling */
+  top: 0; /* Align to the top */
+  left: 0; /* Align to the left */
+  background-color: #333; /* Set background color */
+  color: #fff; /* Set text color */
+  padding-top: 20px; /* Adjust top padding according to your design */
+}
+
+.back-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}

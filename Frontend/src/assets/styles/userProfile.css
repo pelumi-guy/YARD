@@ -1,0 +1,18 @@
+.info {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/* .infoContainer {
+  display: grid;
+  grid-template-columns: repeat(1, 30%);
+  grid-column-gap: 10px;
+} */
+
+.icn {
+  color: cornflowerblue;
+}
+
+.user-details {
+  font-size: 17px;
+}

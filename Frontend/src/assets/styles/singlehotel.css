@@ -1,0 +1,253 @@
+.heading{
+    height: 70px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading-2{
+    height: 40px;
+    width: 300px;
+    text-align: center;
+
+}
+.heading-2 p{
+    color: #152C5B;
+    font-size: 35px;
+    margin-top: -10px;
+
+}
+.heading-3{
+    height: 20px;
+    width: 300px;
+    text-align: center;
+}
+.heading-3 p{
+    color: #B0B0B0;
+}
+.main{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.main-1{
+    height: 500px;
+    width: 54.5%;
+    background-color: yellow;
+    border-radius: 20px;
+    background-image: url('../images/hotel/Eterno1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main-2{
+    height: 500px;
+    width: 44.5%;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.main-3{
+    height: 245px;
+    width: 491px;
+    background-color: orange;
+    border-radius: 20px;
+    background-image: url('../images/hotel/Eterno2.jpg');
+}
+.main-4{
+    height: 245px;
+    width: 491px;
+    background-color: blue;
+    border-radius: 20px;
+    background-image: url('../images/hotel/Eterno3.jpg');
+    background-size: cover;
+}
+.space{
+    margin-top: 30px;
+}
+.title{
+    color: #152C5B;
+    font-size: 30px;
+
+}
+.about{
+    color: #B0B0B0;
+}
+.p1 {
+    color: blue;
+    font-size: 30px;
+    font-weight: 100px;
+}
+.p2 {
+    margin-top: -15px;
+
+}
+.section2 {
+    height: 300px;
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+}
+.img1 {
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+    background-image: url('../images/singlehotel/hotel_img1.jpg');
+    background-size: cover;
+}
+.img2 {
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    background-image: url('../images/singlehotel/hotel_img2.jpg');
+    background-size: cover;
+}
+.img3 {
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    background-image: url(../images/singlehotel/hotel_img3.jpg);
+    background-size: cover;
+}
+.img4 {
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    background-image: url(../images/singlehotel/hotel_img4.jpg);
+    background-size: cover;
+}
+.p3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+.section3 {
+    height: 1000px;
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+    margin-top: 70px;
+}
+.description {
+    height: 1000px;
+    width: 55%;
+    background-color: blueviolet;
+
+}
+.booking {
+    height: 1000px;
+    width: 45%;
+    background-color: yellowgreen;
+}
+.note {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tr1{
+    height: 100px;
+    display: flex;
+    width: 487px;
+    background-color: white;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid black;
+}
+.input1{
+    margin-top: -10px;
+}
+.input1 input{
+    width: 150px;
+
+}
+.p-b1{
+    margin-top: -10px;
+}
+.p-b1 input{
+    width: 300px;
+}
+.tr2{
+    height: 100px;
+    display: flex;
+    width: 487px;
+    background-color: white;
+    flex-direction: column;
+    justify-content: space-around;
+    /* align-items: center; */
+    border: 1px solid black;
+    padding-left: 10px;
+}
+.input-2 input{
+    width: 300px;
+}
+.input-2{
+    margin-top: -20px;
+}
+.tr3 {
+    height: 170px;
+    display: flex;
+    width: 487px;
+    background-color: white;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid black;
+    padding-left: 10px;
+}
+.img1 {
+    height: 100px;
+    width: 100px;
+    padding-left: 10px;
+}
+.room {
+    margin-left: 10px;
+}
+.tr4 {
+    height: 170px;
+    display: flex;
+    width: 487px;
+    background-color: white;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid black;
+    padding-left: 10px;
+}
+.img2 {
+    height: 100px;
+    width: 100px;
+    padding-left: 10px;
+}
+.tr5 {
+    height: 170px;
+    display: flex;
+    width: 487px;
+    background-color: white;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid black;
+    padding-left: 10px;
+}
+.img3 {
+    height: 100px;
+    width: 100px;
+    padding-left: 10px;
+}
+.tr6 {
+    height: 100px;
+    display: flex;
+    width: 487px;
+    background-color: white;
+    /* flex-direction: ; */
+    align-items: center;
+    border: 1px solid black;
+    padding-left: 10px;
+}
+.tag1 {
+    font-size: 20px;
+    font-weight: bold;
+    align-items: center;
+}
+
+

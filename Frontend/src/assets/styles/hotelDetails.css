@@ -1,0 +1,105 @@
+#start-booking {
+  border-radius: 15px;
+  border: 1px solid #B0B0B0;
+}
+
+.bold-header {
+    font-weight: 300 !important;
+}
+
+/* Container */
+.startbooking-container {
+    width: 100%;
+    height: 100%;
+    font-family: sans-serif;
+    position: relative;
+}
+
+/* Start Booking */
+#startBooking {
+    left: 0;
+    top: 0;
+    /* position: absolute; */
+    color: #152C5B;
+    font-size: 20px;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+/* Price */
+#price {
+    left: 0;
+    top: 44px;
+    /* position: absolute; */
+}
+
+.price-value {
+    color: #1ABC9C;
+    font-size: 36px;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.price-label {
+    color: #B0B0B0;
+    font-size: 36px;
+    font-weight: 275;
+    word-wrap: break-word;
+}
+
+/* Stay Duration */
+#stayDuration {
+    width: 320px;
+    height: 80px;
+    left: 0;
+    top: 112px;
+    /* position: absolute; */
+}
+
+.duration-label {
+    width: 288px;
+    left: 0;
+    top: 0;
+    /* position: absolute; */
+    color: #152C5B;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27.20px;
+    word-wrap: break-word;
+}
+
+.duration-background {
+    /* width: 320px;
+    height: 45px;
+    left: 0;
+    top: 35px; */
+    /* position: absolute; */
+    background: #F5F6F8;
+    border-radius: 4px;
+}
+
+.duration-number {
+    width: 195px;
+    left: 63px;
+    top: 44px;
+    /* position: absolute; */
+    text-align: center;
+    color: #152C5B;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27.20px;
+    word-wrap: break-word;
+}
+
+.decrease,
+.increase {
+    width: 45px;
+    height: 45px;
+    left: 0;
+    top: 35px;
+    /* position: absolute; */
+    /* Add other styles as needed */
+}
+
+/* Additional styling for other elements */
+
