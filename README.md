@@ -4,38 +4,37 @@
 YARD App is a live project developed as part of the Decagon Institute curriculum. It addresses the global challenge of housing and accommodation by providing a seamless platform for locating and booking hotels.
 
 ## 📷 Screenshots
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 33.33%; padding: 5px;">
-        <img src="./Screenshots/Screenshot (598).png" style="width: 100%;">
-    </div>
-    <div style="flex: 33.33%; padding: 5px;">
-        <img src="./Screenshots/Screenshot (599).png" style="width: 100%;">
-    </div>
-    <div style="flex: 33.33%; padding: 5px;">
-        <img src="./Screenshots/Screenshot (600).png" style="width: 100%;">
-    </div>
-    <!-- Row 2 -->
-     <div style="flex: 33.33%; padding: 5px;">
-        <img src="./Screenshots/Screenshot (602).png" style="width: 100%;">
-    </div>
-    <div style="flex: 33.33%; padding: 5px;">
-        <img src="./Screenshots/Screenshot (603).png" style="width: 100%;">
-    </div>
-    <div style="flex: 33.33%; padding: 5px;">
-        <img src="./Screenshots/Screenshot (606).png" style="width: 100%;">
-    </div>
+<img src='./Screenshots/Screenshot (598).png' width='48%'>
 
-     <!-- Row 3 -->
-     <div style="flex: 33.33%; padding: 5px;">
-        <img src="./Screenshots/Screenshot (611).png" style="width: 100%;">
-    </div>
-    <div style="flex: 33.33%; padding: 5px;">
-        <img src="./Screenshots/Screenshot (612).png" style="width: 100%;">
-    </div>
-    <div style="flex: 33.33%; padding: 5px;">
-        <img src="./Screenshots/Screenshot (613).png" style="width: 100%;">
-    </div>
-</div>
+&nbsp; &nbsp;
+
+<img src='./Screenshots/Screenshot (599).png'  width='48%'>
+
+<img src='./Screenshots/Screenshot (600).png' width='48%'>
+
+&nbsp; &nbsp;
+
+<img src='./Screenshots/Screenshot (602).png'  width='48%'>
+
+<img src='./Screenshots/Screenshot (603).png'  width='48%'>
+
+&nbsp; &nbsp;
+
+<img src='./Screenshots/Screenshot (606).png'  width='48%'>
+
+<img src='./Screenshots/Screenshot (611).png'  width='48%'>
+
+&nbsp; &nbsp;
+
+<img src='./Screenshots/Screenshot (612).png'  width='48%'>
+
+<img src='./Screenshots/Screenshot (613).png'  width='48%'>
+
+&nbsp; &nbsp;
+
+<img src='./Screenshots/Screenshot (614).png'  width='48%'>
+
+<img src='./Screenshots/Screenshot (615).png'  width='48%'>
 
 
 ## 📜 About YARD App
