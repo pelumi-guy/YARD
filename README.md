@@ -1,24 +1,59 @@
 # YARD App
 
-## Introduction
+## 🚀 Introduction
 YARD App is a live project developed as part of the Decagon Institute curriculum. It addresses the global challenge of housing and accommodation by providing a seamless platform for locating and booking hotels.
 
-## About YARD App
+## 📷 Screenshots
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 33.33%; padding: 5px;">
+        <img src="./Screenshots/Screenshot (598).png" style="width: 100%;">
+    </div>
+    <div style="flex: 33.33%; padding: 5px;">
+        <img src="./Screenshots/Screenshot (599).png" style="width: 100%;">
+    </div>
+    <div style="flex: 33.33%; padding: 5px;">
+        <img src="./Screenshots/Screenshot (600).png" style="width: 100%;">
+    </div>
+    <!-- Row 2 -->
+     <div style="flex: 33.33%; padding: 5px;">
+        <img src="./Screenshots/Screenshot (602).png" style="width: 100%;">
+    </div>
+    <div style="flex: 33.33%; padding: 5px;">
+        <img src="./Screenshots/Screenshot (603).png" style="width: 100%;">
+    </div>
+    <div style="flex: 33.33%; padding: 5px;">
+        <img src="./Screenshots/Screenshot (606).png" style="width: 100%;">
+    </div>
+
+     <!-- Row 3 -->
+     <div style="flex: 33.33%; padding: 5px;">
+        <img src="./Screenshots/Screenshot (611).png" style="width: 100%;">
+    </div>
+    <div style="flex: 33.33%; padding: 5px;">
+        <img src="./Screenshots/Screenshot (612).png" style="width: 100%;">
+    </div>
+    <div style="flex: 33.33%; padding: 5px;">
+        <img src="./Screenshots/Screenshot (613).png" style="width: 100%;">
+    </div>
+</div>
+
+
+## 📜 About YARD App
 Housing and accommodation remains a global challenge and finding the right space and place can even be more hectic.
 
 The Yard App solves this challenge by seamlessly integrating key hotel functionalities, offering users a streamlined experience for reserving, making payments, and accessing their profile through secure password confirmation and email verification.
 
-## Problem Statement
+## 💭 Problem Statement
 The Yard Application addresses the challenge of locating and booking hotels seamlessly.
 
 The app stands out by simplifying hotel bookings, ensuring convenience, and delivering a seamless experience.
 
-## Value Proposition
+## 📈 Value Proposition
 Introducing the Yard Application - a game-changer in the realm of hotel booking.
 
 Recognizing the common struggle of finding and securing accommodations for business trips, family vacations, and various other needs. Yard Application ensures a seamless experience for users.
 
-## Technologies Used
+## ⚙️ Technologies Used
 - C#
 - ASP.NET Core
 - AutoMapper
@@ -32,7 +67,7 @@ Recognizing the common struggle of finding and securing accommodations for busin
 - Axios
 - Redux
 
-## Contributors
+## 🤝🏽 Contributors
 - Johnbosco Ezeani - [GitHub](https://github.com/JohnboscoEzeani)
 - Oluwapelumi Olalekan - [GitHub](https://github.com/pelumi-guy)
 - Elizabeth Okhomina - [GitHub](https://github.com/okhominalizzy)
@@ -43,7 +78,7 @@ Recognizing the common struggle of finding and securing accommodations for busin
 - Ukamaka Nnebuo - [GitHub](https://github.com/nnebuoukamaka)
 - Christopher Amatu - [GitHub](https://github.com/Christox1)
 
-## Technical Leads
+## 🧑🏾‍✈️ Technical Leads
 - Adedayo Adesegun (Stack Lead) - [GitHub](https://github.com/Adedayo-A)
 - John Kehinde (Stack Associate) - [GitHub](https://github.com/PrinceJK)
 - Shalom Gar (Stack Associate) - [GitHub](https://github.com/mistagar)
